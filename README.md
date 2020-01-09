@@ -1,0 +1,2 @@
+# price-slider
+When we think about a slider, we usually imagine an image gallery slider, or the infamous carousel, or perhaps off-canvas navigation, with the overlay sliding in from the side. However, this project is not about those kinds of sliders. Instead, we’ll look into the fine details of designing better slider controls for selecting a value or a range of values. Think of price range sliders, 360-degree-view sliders, timeline sliders, health insurance quote calculators, or build-your-own-mobile-plan features.
